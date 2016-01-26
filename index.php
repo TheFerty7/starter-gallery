@@ -99,6 +99,7 @@ switch (ENVIRONMENT)
  * as this file.
  */
 	$system_path = '../system3';
+        
 
 /*
  *---------------------------------------------------------------
